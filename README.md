@@ -38,6 +38,10 @@
 
 ![anal](/img/anal.PNG)
 
+* 내가 가진 재료들로 만들수 있는 요리를 추천해줍니다.
+
+![search](/img/search.png)
+
 ### 재료를 활용한 레시피 추천
 
 * 사진을 클릭하면 레시피가 있는 페이지로 이동
@@ -56,5 +60,3 @@
 
 
 ![my_info](/img/my_info.PNG)
-
-![search](/img/search.png)
