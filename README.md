@@ -42,7 +42,7 @@
 
 * 사진을 클릭하면 레시피가 있는 페이지로 이동
 
-![reci](/img/reci.PNG)
+![reci](/img/reci.png)
 
 ### SNS 기능
 
@@ -57,4 +57,4 @@
 
 ![my_info](/img/my_info.PNG)
 
-![search](/img/search.PNG)
+![search](/img/search.png)
